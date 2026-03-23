@@ -480,8 +480,8 @@ Docker caches each image layer. Unchanged layers (like npm install) are reused o
 
 ## Author
 
-**Saket Nandan**
-DevOps Intern Project — March 2026
+**Rahul Khandelwal**
+DevOps  Project — March 2026
 
 ---
 
